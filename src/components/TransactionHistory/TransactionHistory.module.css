@@ -16,3 +16,31 @@
   text-transform: uppercase;
   height: 45px;
 }
+
+.type {
+  text-align: left;
+  padding-left: 112px;
+}
+
+.body {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.body .type {
+  text-transform: capitalize;
+}
+
+.bodyItem {
+  background-color: #fff;
+}
+
+.bodyItem:nth-child(even) {
+  background-color: #ecf2f3;
+}
+
+.amount {
+  border-left: 2px solid #e0e6e7;
+  border-right: 2px solid #e0e6e7;
+}

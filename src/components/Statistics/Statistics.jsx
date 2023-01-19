@@ -46,5 +46,7 @@ Statistics.propTypes = {
     }).isRequired,
   ).isRequired,
 };
+
+
     
 export default Statistics;
