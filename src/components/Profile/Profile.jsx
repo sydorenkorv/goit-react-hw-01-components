@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import user from 'assets/user';
+// import user from 'assets/user';
 import styles from './Profile.module.css';
 
 const Profile = ({ user }) => {

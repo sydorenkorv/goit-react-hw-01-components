@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import friends from 'assets/transactions';
+// import friends from 'assets/transactions';
 import styles from './TransactionHistory.module.css';
 
 const TransactionHistory = ({ items }) => {
